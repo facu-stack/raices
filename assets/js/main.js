@@ -2,6 +2,8 @@
    CENTRO RAÍCES — JavaScript modular
    ============================================== */
 
+   // Esto es una prueba
+
 document.addEventListener('DOMContentLoaded', () => {
 
   // ========== NAVBAR: Efecto scroll ==========
